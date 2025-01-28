@@ -20,8 +20,8 @@ const { data: docs } = await useAsyncData('documents-list', () => {
  </div>
 
  <div class="testImage">
-    <img src="/testingImage.jpg" />
-    <img src="/favicon.ico" />
+    <!-- <img src="/testingImage.jpg" /> -->
+    <!-- <img src="/favicon.ico" /> -->
     <NuxtImg src="/testingImage.jpg" />
  </div>
 </template>
