@@ -1,6 +1,6 @@
 ---
 title: Wong Chun Hoi Bibliography 2023 Jan
-updated: '2023-01-07'
+updated: 2023-01-07
 head: 'false'
 ---
 ## Bibliography
