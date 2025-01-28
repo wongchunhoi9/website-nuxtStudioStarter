@@ -7,3 +7,5 @@ description: 'meta description of the page'
 # Foo
 
 This is Foo blog post.
+
+![alt text](/testingImage.jpg)
